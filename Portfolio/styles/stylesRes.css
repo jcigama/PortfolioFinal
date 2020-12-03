@@ -1,0 +1,39 @@
+h1 {
+    font-family: "Calibri Light", serif;
+}
+
+body {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 35px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url("../images/parallax.jpg");
+    background-size: cover;
+}
+
+.headingOne {
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 16px;
+    font-size: 60px;
+    text-align: center;
+    color: white;
+}
+
+.paragraphOne {
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 8px;
+    font-size: 24px;
+    text-align: center;
+    color: white;
+}
+
+.navbar {
+    font-family: "Calibri Light", serif;
+}
+
+.TopMenuUnderline {
+    border-style: solid;
+    border-width: 0 0 1px 0;
+    border-color: #4e555b;
+}
